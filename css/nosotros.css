@@ -1,4 +1,3 @@
-/* Inserta tu codigo aqui */
 h1{
 	color: #031325;
 	font-size: 30px;
@@ -69,29 +68,24 @@ a{
 .profes{
 	padding: 10px;
 }
+.profes-2{
+	margin-top: 40px;
+}
 .profes img{
 	width: 100%;
+	height: 160px;
+	object-fit: fill;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.declaracion-3{
+	background: url(../img/cubes.png);
+	width: 100%;
+	padding: 120px 0 ;
+}
+.declaracion-3 p{
+	font-size: 35px;
+	text-align: center;
+	font-style: italic;
+}
 h6{
 	font-size: 30px;
 	color: #1F2F55;
