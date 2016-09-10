@@ -1,0 +1,136 @@
+/* Inserta tu codigo aqui */
+h1{
+	color: #031325;
+	font-size: 30px;
+	text-align: center;
+	margin-top: 15px;
+}
+a{
+	text-decoration: none;
+}
+.menu{
+	padding-top: 25px;
+}
+.menu a{
+	text-align: center;
+	color: #CAC9C9;
+	font-size: 16px;
+	padding: 23px;
+}
+.sobre{
+	background-image: url(../img/dance_7.jpg);
+	background-size: cover;
+	width: 100%;
+	min-height: 400px;
+	margin-top: 20px;
+}
+.cuadro{
+	background-color: rgba(0,0,0,0.4);
+	width: 90%;
+	padding: 35px 55px;
+	margin-top: 100px;
+}
+.cuadro h2{
+	font-size: 22px;
+	color: white;
+	text-align: center;
+	margin-bottom: 10px;
+}
+.cuadro p{
+	font-size: 14px;
+	color: #CAC9C9;
+	text-align: center;
+}
+.fondo-1{
+	background-image: url(../img/cubes.png);
+	width: 100%;
+}
+.pilar{
+	color: #CAC9C9;
+	font-size: 20px;
+	text-align: center;
+	padding: 120px 25px 120px 75px ;
+}
+.pilar h3{
+	font-size: 22px;
+	font-weight: bold;
+}
+.pilar p{
+	font-size: 16px;
+	text-align: center;
+	margin-top: 15px;
+}
+.title-2 p{
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+	margin: 20px 0;
+}
+.profes{
+	padding: 10px;
+}
+.profes img{
+	width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+h6{
+	font-size: 30px;
+	color: #1F2F55;
+	margin-top: 60px;
+	margin-left:120px;
+}
+
+input, textarea{
+	border: 1px solid #CAC9C9;
+	width: 60%;
+	padding: 14px;
+	margin: 20px 0 0 120px;
+	display: inline;
+	float: left;
+}
+.contacto-img{
+	background-image: url(../img/shoes_!.jpg);
+	width: cover;
+	height: 500px;
+	background-repeat: no-repeat;
+}
+.copy{
+	background-color: #1F2F55;
+}
+.copy p{
+	font-size: 12px;
+	margin: 20px 0 20px 40px;
+	color: #CAC9C9;
+}
+.boton-4 {
+	margin: 15px 0 15px 120px;
+	display: inline;
+	float:left;
+	padding: 15px 190px;
+	background-color: #1F2F55;
+	border-radius: 5px
+}
+.boton-4 a{
+	font-size: 15px;
+	color: white;
+}
+
