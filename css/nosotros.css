@@ -42,6 +42,7 @@ a{
 }
 .fondo-1{
 	background-image: url(../img/cubes.png);
+	background-size: cover;
 	width: 100%;
 }
 .pilar{
